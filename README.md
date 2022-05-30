@@ -34,4 +34,6 @@ Furthermore, as a REST API this current version lacks the ability to listen to c
 
 ## Issues and feedback
 
-Should you encounter any issues while using the API, or have any feedback you wish to share, please create an [issue](https://github.com/Noxcrew/mcc-event-api/issues) and we will get back to you as soon as possible.
+Should you encounter any issues while using the API, please create an [issue](https://github.com/Noxcrew/mcc-event-api/issues) and we will get back to you as soon as possible. For questions and feedback, please use the [discussions tab](https://github.com/Noxcrew/mcchampionship-api/discussions).
+
+We will not be accepting Pull Requests in this repository.
