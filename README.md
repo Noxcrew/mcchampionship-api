@@ -18,8 +18,6 @@ It is worth emphasising that this is only a small fragment of what the team want
 
 [Full documentation](https://api.mcchampionship.com/docs/) is now available via the API directly, including information about the data available and the schema of responses.
 
-This initial version provides information about the **current event cycle** only. Although this certainly is something we want to expand upon in the future, it is all we are able to provide for now. This is because the API is entirely based on the same database which feeds [MCC Live](https://mcc.live/), which _at present_ does not rely on any information from previous event cycles.
-
 Please note that, in the interests of safety, the API is **rate limited to 40 requests per minute per IP**. Therefore, we recommend caching responses on your own database. This also enables you to look back at past event cycles until we add the capability to do this directly in the API in the future.
 
 <br />
