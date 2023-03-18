@@ -26,7 +26,7 @@ Please note that, in the interests of safety, the API is **rate limited to 40 re
 
 ## Looking ahead
 
-As mentioned, this is an early iteration of the final API for which we are striving. Although this second iteration, whenever it comes out, will have significant differences to accommodate the ability to look at past event cycles, we are aiming to allow for interoperability between the two. At present we are unable to provide concrete details on this and how it will behave with the release of [MCC Island](https://mccisland.net/) but will continue to update this repository with further information when we are ready to share it.
+As mentioned, this is an early iteration of the final API for which we are striving. Although this second iteration will have significant differences, we are aiming to allow for interoperability between the two. At present we are unable to provide concrete details on this and how it will behave with the full release of [MCC Island](https://mccisland.net/) but will continue to update this repository with further information when we are ready to share it.
 
 Furthermore, as a REST API this current version lacks the ability to listen to changes directly via technologies like [Web Sockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/). We may enable this in the future but are unable to confirm with certainty at this stage.
 
